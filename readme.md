@@ -20,7 +20,7 @@ This repository contains a Node.js application packaged with Docker and managed 
 └── README.md
 ``` 
 
-
+ 
 ## 🚀 Getting Started
 
 These instructions will get your application up and running using Docker.
