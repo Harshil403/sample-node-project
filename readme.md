@@ -18,7 +18,7 @@ This repository contains a Node.js application packaged with Docker and managed 
 ├── package-lock.json
 ├── package.json
 └── README.md
-```
+``` 
 
 
 ## 🚀 Getting Started
