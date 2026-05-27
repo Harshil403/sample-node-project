@@ -23,7 +23,7 @@ This repository contains a Node.js application packaged with Docker and managed 
  
 ## 🚀 Getting Started
 
-These instructions will get your application up and running using Docker.
+These instructions will get your application up and running using Docker. 
 
 ### 🛠️ Prerequisites
 
